@@ -1,7 +1,7 @@
 import { Routes,Route } from "react-router-dom";
 import { Header } from "./Components/Header";
 import { Catalog } from "./Components/Catalog";
-import { Clients } from "./Components/Clients/Client";
+import { Clients } from "./Components/Clients/Clients.jsx";
 import './index.js'
 
 export const  App = () => {
